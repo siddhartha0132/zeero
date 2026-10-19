@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ClaimSaathi</title>
+  <meta name="description" content="An AI agent that checks, fixes and fights health-insurance claims in India.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛡️</text></svg>">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">🛡️</span>
+      <div>
+        <h1>ClaimSaathi</h1>
+        <p>An AI agent that checks, fixes and fights your health-insurance claims</p>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <span id="model-status" class="pill">Checking model…</span>
+      <button id="new-case" class="ghost" type="button">New case</button>
+    </div>
+  </header>
+
+  <div id="config-banner" class="banner" hidden>
+    No AI model is configured yet. Copy <code>.env.example</code> to <code>.env</code>, add a free API key, then restart the server.
+    You can still upload documents.
+  </div>
+
+  <main class="layout">
+    <section class="panel" id="setup-panel" aria-labelledby="setup-title">
+      <h2 id="setup-title"><span class="step">1</span> Your documents</h2>
+      <label id="dropzone" class="dropzone">
+        <input id="file-input" type="file" multiple accept=".pdf,.png,.jpg,.jpeg,.webp,.txt,.md">
+        <strong>Drop files or click to upload</strong>
+        <span>Policy wording, hospital bill, discharge summary, rejection letter. PDF, photo or text.</span>
+      </label>
+      <button id="load-sample" class="link" type="button">No documents to hand? Load a sample case</button>
+      <p id="upload-status" class="muted small" hidden></p>
+      <ul id="doc-list" class="doc-list"></ul>
+
+      <h2><span class="step">2</span> What do you need?</h2>
+      <div class="modes" role="radiogroup" aria-label="Goal">
+        <label class="mode">
+          <input type="radio" name="mode" value="appeal" checked>
+          <span><strong>My claim was rejected</strong><small>Check if the rejection holds up, what I'm owed, and draft the appeal</small></span>
+        </label>
+        <label class="mode">
+          <input type="radio" name="mode" value="pre_claim">
+          <span><strong>Check before I file</strong><small>Estimate the payout, spot deductions and missing papers</small></span>
+        </label>
+      </div>
+      <textarea id="notes" rows="3" placeholder="Anything else the agent should know? Hindi or Telugu is fine."></textarea>
+      <button id="run" class="primary wide" type="button">Run the agent</button>
+    </section>
+
+    <section class="panel" id="activity-panel" aria-labelledby="activity-title">
+      <h2 id="activity-title">Agent at work</h2>
+      <ol id="plan" class="plan" hidden></ol>
+      <div id="feed" class="feed" aria-live="polite">
+        <p class="empty">Add documents and run the agent. Every step it takes shows up here.</p>
+      </div>
+      <form id="chat" class="chat">
+        <input id="chat-input" autocomplete="off" placeholder="Follow up, e.g. “make the appeal shorter” or “explain in Hindi”">
+        <button class="primary" type="submit">Send</button>
+      </form>
+    </section>
+
+    <section class="panel" id="results-panel" aria-labelledby="results-title">
+      <h2 id="results-title">Results</h2>
+      <div id="verdict"></div>
+      <div id="assessment"></div>
+      <div id="checklist"></div>
+      <div id="drafts"></div>
+      <p id="results-empty" class="empty">The verdict, bill check, document checklist and letters ready to send appear here.</p>
+    </section>
+  </main>
+
+  <footer>
+    ClaimSaathi gives guidance, not legal advice. Review every draft before sending. IRDAI rules change, so check the latest circulars.
+  </footer>
+  <script src="/app.js"></script>
+</body>
+</html>

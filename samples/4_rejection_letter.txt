@@ -1,0 +1,33 @@
+SAMPLE DOCUMENT — FICTIONAL, FOR DEMO ONLY
+
+SUBJECT: REPUDIATION OF REIMBURSEMENT CLAIM NO. SGH/CLM/2026/0847123
+
+Suraksha General Health Insurance Ltd. (fictional)
+Claims Department, Hyderabad Regional Office
+
+Date: 10-09-2026
+
+To,
+Mr. Ramesh Kumar
+Flat 204, Sai Residency, Kukatpally, Hyderabad 500072
+
+Policy No: SGH/FHS/2026/00412877
+Claim No: SGH/CLM/2026/0847123
+Patient: Ramesh Kumar
+Hospital: Sunrise Multispeciality Hospital, Hyderabad
+Date of Admission: 12-08-2026
+Amount Claimed: Rs. 1,88,300
+
+Dear Sir,
+
+We have carefully examined the documents submitted in support of the above reimbursement claim.
+
+On scrutiny of the discharge summary, it is observed that the insured is a known case of hypertension since 2017 and is on regular treatment. This condition was not disclosed in the proposal form at the time of inception of the policy on 01-04-2019, which amounts to non-disclosure of a material fact.
+
+Accordingly, we regret to inform you that the claim is repudiated in full under Clause 6.1 (Disclosure of Information) of the policy terms and conditions.
+
+If you are not satisfied with this decision, you may write to our Grievance Officer at grievance@suraksha-health.example. You may also approach the Insurance Ombudsman.
+
+Yours faithfully,
+Claims Manager
+Suraksha General Health Insurance Ltd.

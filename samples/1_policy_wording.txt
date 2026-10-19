@@ -1,0 +1,66 @@
+SAMPLE DOCUMENT — FICTIONAL, FOR DEMO ONLY
+
+SURAKSHA GENERAL HEALTH INSURANCE LTD. (FICTIONAL)
+SURAKSHA FAMILY HEALTH SHIELD — POLICY WORDING
+
+POLICY SCHEDULE
+Policy Number: SGH/FHS/2026/00412877
+Insured Persons: Ramesh Kumar (Age 52, Proposer), Anita Kumar (Age 48)
+Current Policy Period: 01-04-2026 to 31-03-2027
+First Policy Inception Date: 01-04-2019 (renewed every year without a break)
+Sum Insured: Rs. 5,00,000 (family floater)
+Room Rent Limit: 1% of Sum Insured per day (Rs. 5,000 per day)
+ICU Limit: 2% of Sum Insured per day (Rs. 10,000 per day)
+Co-payment: Nil for insured persons below 60 years
+Pre-existing diseases declared in proposal form: None
+Grievance Officer: grievance@suraksha-health.example | Toll-free 1800-000-0000
+
+SECTION 1 — DEFINITIONS
+1.1 Pre-existing Disease: Any condition, ailment, injury or disease (a) that is/are diagnosed by a physician not more than 36 months prior to the date of commencement of the policy issued by the insurer; or (b) for which medical advice or treatment was recommended by, or received from, a physician not more than 36 months prior to the date of commencement of the policy.
+1.2 Associated Medical Expenses: Room rent, nursing charges, operation theatre charges, fees of the treating medical practitioner, surgeon, anaesthetist or specialist, and consultation charges within the same hospital where the insured has been admitted.
+1.3 Continuous Coverage: Uninterrupted coverage under this policy, including renewals without a break, since the First Policy Inception Date.
+1.4 Hospitalisation: Admission in a hospital for a minimum period of 24 consecutive in-patient care hours, except for day care procedures.
+1.5 Material Facts: All relevant information sought by the Company in the proposal form and other connected documents to enable it to take an informed decision on the risk.
+
+SECTION 2 — WHAT IS COVERED
+2.1 In-patient Hospitalisation: The Company shall indemnify medical expenses incurred for hospitalisation of the insured person during the policy period, up to the Sum Insured, subject to the limits in clause 2.2.
+2.2 Room Rent and ICU Limits: Room rent is payable up to 1% of the Sum Insured per day. ICU charges are payable up to 2% of the Sum Insured per day.
+2.3 Proportionate Deduction: If the insured person is admitted in a room category with rent above the eligible limit in clause 2.2, the Associated Medical Expenses shall be payable in the same proportion as the eligible room rent bears to the actual room rent. Proportionate deduction shall not apply to (i) pharmacy and consumables, (ii) implants and medical devices, (iii) diagnostics, and (iv) ICU charges. Proportionate deduction shall also not apply in hospitals that do not follow differential billing based on room category.
+2.4 Pre- and Post-hospitalisation: Medical expenses incurred up to 30 days before admission and up to 60 days after discharge for the same condition.
+2.5 Day Care Procedures: Covered as listed in Annexure II.
+
+SECTION 3 — WAITING PERIODS
+3.1 Initial Waiting Period: Expenses for any illness within 30 days of the first policy commencement are excluded, except claims arising from an accident.
+3.2 Specified Disease / Procedure Waiting Period: Expenses for the following are excluded until 24 months of continuous coverage have elapsed: (a) cataract; (b) benign prostatic hypertrophy; (c) hernia of all types; (d) calculus diseases of the gall bladder and urogenital system, including cholecystitis and cholelithiasis; (e) joint replacement unless due to accident; (f) haemorrhoids, fissure and fistula; (g) sinusitis and tonsillitis.
+3.3 Pre-existing Diseases: Expenses related to the treatment of a pre-existing disease and its direct complications are excluded until 36 months of continuous coverage have elapsed.
+
+SECTION 4 — EXCLUSIONS
+4.1 Investigation and Evaluation: Admission primarily for diagnostics and evaluation purposes only.
+4.2 Rest Cure and Rehabilitation: Custodial care, rest cure or respite care.
+4.3 Obesity and Weight Control: Surgical treatment of obesity not meeting the prescribed criteria.
+4.4 Cosmetic or Plastic Surgery: Unless for reconstruction following an accident, burn or cancer.
+4.5 Hazardous Sports: Treatment arising from participation in hazardous or adventure sports.
+4.6 Substance Abuse: Treatment for alcoholism, drug or substance abuse.
+4.7 Non-medical Expenses: Items listed in Annexure I (List of Non-payable Items) are not payable.
+
+SECTION 5 — MORATORIUM PERIOD
+5.1 Moratorium: After completion of sixty continuous months of coverage (including portability and migration), no policy and claim shall be contestable by the Company on grounds of non-disclosure or misrepresentation, except on grounds of established fraud. This period of sixty continuous months is called the Moratorium Period. The moratorium applies to the sums insured of the first policy; wherever the sum insured is enhanced, completion of sixty continuous months applies from the date of enhancement, only on the enhanced limits. The policy remains subject to all limits, sub-limits, co-payments and deductibles as per the policy contract.
+
+SECTION 6 — GENERAL TERMS AND CONDITIONS
+6.1 Disclosure of Information: The policy shall be void and all premium paid thereon shall be forfeited to the Company in the event of misrepresentation, mis-description or non-disclosure of any material fact by the policyholder.
+6.2 Claim Intimation: Emergency hospitalisation must be intimated within 48 hours of admission or before discharge, whichever is earlier. Planned hospitalisation must be intimated at least 72 hours before admission.
+6.3 Claim Documents (Reimbursement): Submit within 30 days of discharge: (a) claim form, filled and signed; (b) discharge summary; (c) final hospital bill with itemised break-up and payment receipt; (d) pharmacy bills with prescriptions; (e) investigation reports; (f) photo ID and KYC of the proposer; (g) NEFT details with a cancelled cheque; (h) MLC or FIR in accident cases.
+6.4 Claim Settlement: The Company shall settle or reject a claim within 30 days of receipt of the last necessary document. In case of delay, the Company shall pay interest at 2% above the bank rate from the date of receipt of the last necessary document until payment.
+6.5 Grievance Redressal: The insured may write to the Grievance Officer at grievance@suraksha-health.example. The Company shall resolve the grievance within 14 days. If the insured is not satisfied, or receives no response, the insured may register the grievance on IRDAI's Bima Bharosa portal (bimabharosa.irdai.gov.in) or approach the Insurance Ombudsman (cioins.co.in).
+
+ANNEXURE I — LIST OF NON-PAYABLE ITEMS (EXTRACT)
+1. Baby food
+2. Beauty services
+3. Toiletries (soap, shampoo, toothpaste and similar)
+4. Admission kit and discharge kit
+5. Attendant charges and food or beverages for attendants
+6. Registration and admission charges
+7. Documentation and administrative charges
+8. Disposable masks and non-sterile gloves
+9. Television, telephone and laundry charges
+10. Diapers and sanitary pads

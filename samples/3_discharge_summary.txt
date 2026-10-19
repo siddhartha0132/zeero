@@ -1,0 +1,43 @@
+SAMPLE DOCUMENT — FICTIONAL, FOR DEMO ONLY
+
+SUNRISE MULTISPECIALITY HOSPITAL, HYDERABAD (FICTIONAL)
+DISCHARGE SUMMARY
+
+Patient: Ramesh Kumar          Age/Sex: 52/M          UHID: SMH-0098812
+Date of Admission: 12-08-2026  Date of Discharge: 15-08-2026
+Consultant: Dr. A. Rao, MS (General Surgery)
+Type of Admission: Emergency
+
+Presenting Complaints:
+Pain in the right upper abdomen for 2 days, fever and vomiting.
+
+History of Present Illness:
+The patient developed sudden colicky pain in the right upper abdomen after meals two days before admission, radiating to the back, with fever (101 F) and three episodes of vomiting.
+
+Past History:
+Known case of hypertension since 2017, on Tab. Amlodipine 5 mg once daily, BP well controlled. No history of diabetes, gall bladder disease or previous abdominal surgery.
+
+Examination on Admission:
+Temperature 100.8 F, pulse 102/min, BP 132/84 mmHg. Tenderness in the right hypochondrium, Murphy's sign positive.
+
+Investigations:
+USG abdomen: distended gall bladder with multiple calculi, wall thickening of 5 mm, peri-cholecystic fluid.
+CT abdomen: acute calculous cholecystitis; no evidence of perforation.
+Total leucocyte count: 14,800/cumm. LFT: mildly raised alkaline phosphatase.
+
+Final Diagnosis:
+Acute calculous cholecystitis (ICD-10: K80.0)
+
+Procedure:
+Laparoscopic cholecystectomy under general anaesthesia on 13-08-2026. Intra-operative findings: inflamed gall bladder with multiple calculi. Procedure uneventful.
+
+Course in Hospital:
+Treated with IV antibiotics, analgesics and IV fluids. Post-operative recovery uneventful. BP remained controlled throughout the stay on the usual dose of Amlodipine; no change in anti-hypertensive treatment was required.
+
+Condition at Discharge:
+Stable, afebrile, tolerating oral diet, wounds healthy.
+
+Advice on Discharge:
+Tab. Cefuroxime 500 mg twice daily for 5 days, Tab. Paracetamol 650 mg SOS, continue Tab. Amlodipine 5 mg once daily. Review in surgical OPD after 7 days for suture removal.
+
+Dr. A. Rao, MS (General Surgery)
