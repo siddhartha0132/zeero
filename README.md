@@ -98,3 +98,5 @@ the API end to end. None of them needs an API key.
 - Cases live in memory only.
 - Scanned PDFs without a text layer need to be uploaded as photos.
 # zeero
+
+> **Created on:** 19 October 2026 (IST)
